@@ -8,4 +8,4 @@
 
 
 # 🎮 My Discord Status:
-<p align="center"><a href="https://discord.com/users/957071564300501042"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/957071564300501042?bg=#578396"></a></p>
+<p align="center"><a href="https://discord.com/users/617096967188643855"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/617096967188643855?bg=#578396"></a></p>
